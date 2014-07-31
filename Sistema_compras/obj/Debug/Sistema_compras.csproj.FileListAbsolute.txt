@@ -1,0 +1,34 @@
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\bin\Debug\Sistema_compras.exe.config
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.csprojResolveAssemblyReference.cache
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.frm_OrdenCompra.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.frmMDI_Principal.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Properties.Resources.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.csproj.GenerateResource.Cache
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\bin\Debug\Sistema_compras.exe
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\bin\Debug\Sistema_compras.pdb
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.exe
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.pdb
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Solicitud_Pedido.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_ConsultarGenerales.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Proveedor.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Cotizacion.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.exe.licenses
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_EntregaPedido.resources
+G:\New Base storage\Programacion\Visual Studio WorkSpace\Sistema de Compras\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Devoluciones.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\bin\Debug\Sistema_compras.exe.config
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.exe
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.pdb
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\bin\Debug\Sistema_compras.exe
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\bin\Debug\Sistema_compras.pdb
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_ConsultarGenerales.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Cotizacion.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Devoluciones.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_EntregaPedido.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.frm_OrdenCompra.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Proveedor.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Formularios.frm_Solicitud_Pedido.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.frmMDI_Principal.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.Properties.Resources.resources
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.csproj.GenerateResource.Cache
+C:\Users\Santiago\Documents\Visual Studio 2012\Projects\Sistema_compras\Sistema_compras\obj\Debug\Sistema_compras.exe.licenses
